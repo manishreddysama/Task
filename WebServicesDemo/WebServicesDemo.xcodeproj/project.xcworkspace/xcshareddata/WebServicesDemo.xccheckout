@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>765CC9DD-87E3-4847-8F0D-8FD18F7A73A1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WebServicesDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>450EA966CE7873E7A5D06C33C8097388E32AB416</key>
+		<string>https://github.com/manishreddysama/Task.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WebServicesDemo/WebServicesDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>450EA966CE7873E7A5D06C33C8097388E32AB416</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/manishreddysama/Task.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>450EA966CE7873E7A5D06C33C8097388E32AB416</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>450EA966CE7873E7A5D06C33C8097388E32AB416</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Task</string>
+		</dict>
+	</array>
+</dict>
+</plist>
